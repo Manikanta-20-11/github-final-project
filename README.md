@@ -16,3 +16,6 @@ Output
 This project demonstrates a simple interest calculator.
 The calculator demonstrates how to calculate simple interest.
 _© 2022 XYZ, Inc._
+
+## Git Merge Demonstration
+This change demonstrates merging bug-fix-typo into main.
