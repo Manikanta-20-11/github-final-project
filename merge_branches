@@ -1,8 +1,6 @@
-PS> git checkout main
+﻿Command: git checkout main
 Already on 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
-PS> git merge bug-fix-typo
-Updating f943c53..a1260e4
-Fast-forward
+Command: git merge bug-fix-typo
+Merge made by the 'ort' strategy.
  README.md | 1 +
  1 file changed, 1 insertion(+)
