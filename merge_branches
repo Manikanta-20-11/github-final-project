@@ -1,6 +1,36 @@
 ﻿Command: git checkout main
 Already on 'main'
+M	merge_branches
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
 Command: git merge bug-fix-typo
+Already up to date.
+
+Command: git show HEAD:README.md
+# Introduction to Git and GitHub
+
+## Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+This project demonstrates a simple interest calculator.
+The calculator demonstrates how to calculate simple interest.
+_┬⌐ 2022 XYZ, Inc._
+
+## Git Merge Demonstration
+This change demonstrates merging bug-fix-typo into main.
+
+Recorded merge result from the successful merge:
 Merge made by the 'ort' strategy.
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
