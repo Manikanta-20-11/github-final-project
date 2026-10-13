@@ -7,8 +7,8 @@
 
 Command: git branch -vv
   bug-fix-revert 7516cac Update fork verification evidence
-  bug-fix-typo   99bca5e Update README for merge evidence
-* main           7516cac [origin/main] Update fork verification evidence
+  bug-fix-typo   cdb88eb Add README merge demonstration
+* main           6ca875e [origin/main] Add pull request verification command and output
 
 Command: git status
 On branch main
